@@ -1,13 +1,13 @@
 {
   "fw_ver": "2.0.2",
-  "build": "Mar 23 2026 15:10:42",
-  "bin": "neoudp15_rp2040_2.0.2_20260323-151042.bin",
-  "bin_url": "https://evenliesye0103-lang.github.io/neoudp1.5-firmware/firmware/neoudp15_rp2040_2.0.2_20260323-151042.bin",
+  "build": "Mar 23 2026 16:25:04",
+  "bin": "neoudp15_rp2040_2.0.2_20260323-162504.bin",
+  "bin_url": "https://evenliesye0103-lang.github.io/neoudp1.5-firmware/firmware/neoudp15_rp2040_2.0.2_20260323-162504.bin",
   "rp2040": {
     "fw_ver": "2.0.2",
     "arch": "rp2040",
-    "build": "Mar 23 2026 15:10:42",
-    "bin": "neoudp15_rp2040_2.0.2_20260323-151042.bin",
-    "bin_url": "https://evenliesye0103-lang.github.io/neoudp1.5-firmware/firmware/neoudp15_rp2040_2.0.2_20260323-151042.bin"
+    "build": "Mar 23 2026 16:25:04",
+    "bin": "neoudp15_rp2040_2.0.2_20260323-162504.bin",
+    "bin_url": "https://evenliesye0103-lang.github.io/neoudp1.5-firmware/firmware/neoudp15_rp2040_2.0.2_20260323-162504.bin"
   }
 }
